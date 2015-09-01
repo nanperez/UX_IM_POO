@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package clase03;
+package Ejercicios;
 
 /**
  *
- * @author nancy
+ * @author Nancy P.C.
  */
 public class OperadorAsignacion {
 
