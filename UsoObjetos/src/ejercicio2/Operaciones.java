@@ -13,6 +13,10 @@ public class Operaciones {
     
     //int num1;
     //int num2;
+    public Operaciones(){
+        
+    }
+    
     
     int sumar(int a, int b){
         return a+b;
